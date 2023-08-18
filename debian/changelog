@@ -1,0 +1,17 @@
+dracut-sshd (0.6.5-1+enneamer3) stable; urgency=medium
+
+  * chore: version bump
+
+ -- Enneamer <enneamer@enneamer.is>  Fri, 18 Aug 2023 21:16:33 +0800
+
+dracut-sshd (0.6.5-1+enneamer2) stable; urgency=medium
+
+  * chore: switch to GitLab CI template
+
+ -- Enneamer <enneamer@enneamer.is>  Fri, 18 Aug 2023 08:50:18 +0800
+
+dracut-sshd (0.6.5-1+enneamer1) stable; urgency=medium
+
+  * feat: initial release
+
+ -- Enneamer <enneamer@enneamer.is>  Tue, 13 Jun 2023 10:48:55 +0800
